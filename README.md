@@ -9,7 +9,8 @@ I have an insane drive to every single day become a better programmer, co-worker
 
 We are 🐍 what we repeatedly do, so, excellence, then, is not an act, but a habit 🐲
 
-🧰 Toolbox
+## &#x1f4c8; 🧰 Toolbox
+
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jQuery Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="Sourcetree Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="Sourcetree Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS Logo" width="80" height="80"/>
 
 ## &#x1f4c8; 📫 How to reach me:
