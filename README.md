@@ -7,13 +7,12 @@
 ## 🤔 About me:
 
 I’ve been a professional developer for more than 10 years and I’ve been programming daily for about 20 years, 
-  and as Socrates said: > ‘I know that I know nothing’ 😅😆 
+  and as Socrates said: 
+> I know that I know nothing’ 😅😆 
 
 I have an insane drive to every single day become a better programmer, co-worker, friend, husband, father, person, etc. 😉 
 
 > We are 🐍 what we repeatedly do, so, excellence, then, is not an act, but a habit 🐲
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> |
-
 
 ## 🧰 Toolbox
 
