@@ -7,6 +7,7 @@
 ## 🤔 About me:
 
 I’ve been a professional developer for more than 10 years and I’ve been programming daily for about 20 years, and
+  
   as Socrates said: ‘I know that I know nothing’ 😅😆
 
 I have an insane drive to every single day become a better programmer, co-worker, friend, husband, father, person, etc. 😉
@@ -24,9 +25,9 @@ We are 🐍 what we repeatedly do, so, excellence, then, is not an act, but a ha
 
 
 
+
 ## 📫 How to reach me:
-@Linkedin: <a href="https://www.linkedin.com/in/victorgonzaleztoledo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
-@Email: <a href="mailto:victor.gonzalez.sw.developer@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/victorgonzaleztoledo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a><a href="mailto:victor.gonzalez.sw.developer@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 
 ## &#x1f4c8; My GitHub Stats
 
