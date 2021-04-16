@@ -1,13 +1,19 @@
 ### Hi there 🖐️, I am belce1982 👹, also known as Victor Gonzalez :man:
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=belce1982.belce1982)
+
 ### 🤔 About me:
 
-I’ve been a professional developer for more than 10 years and I’ve been programming daily for about 20 years, and https://www.freepik.es/vector-gratis/ilustracion-concepto-programacion_7118756.htm#page=1&query=develop&position=8<a href="https://www.freepik.es/vectores/tecnologia">Vector de Tecnología creado por stories - www.freepik.es</a>
+I’ve been a professional developer for more than 10 years and I’ve been programming daily for about 20 years, and
   as Socrates said: ‘I know that I know nothing’ 😅😆
 
 I have an insane drive to every single day become a better programmer, co-worker, friend, husband, father, person, etc. 😉
 
 We are 🐍 what we repeatedly do, so, excellence, then, is not an act, but a habit 🐲
+
+<img src="https://image.freepik.com/vector-gratis/ilustracion-concepto-programacion_114360-1351.jpg" alt="Software Development JPG" width="120" height="120"/>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<a href="https://www.freepik.es/vectores/tecnologia">Vector de Tecnología creado por stories - www.freepik.es</a>
 
 ## &#x1f4c8; 🧰 Toolbox
 
@@ -15,6 +21,8 @@ We are 🐍 what we repeatedly do, so, excellence, then, is not an act, but a ha
 
 ## &#x1f4c8; 📫 How to reach me:
 
+<a href="mailto:victor.gonzalez.sw.developer@gmail.com">victor.gonzalez.sw.developer@gmail.com</a>
+<a href="mailto:victor.gonzalez.sw.developer@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 You can find me at [victor.gonzalez.sw.developer@gmail.com](mailto:victor.gonzalez.sw.developer@gmail.com?subject=[GitHub]%20Hello%20Victor%20Gonzalez)
 <a href="https://www.linkedin.com/in/victorgonzaleztoledo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
