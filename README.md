@@ -24,8 +24,8 @@ You can find my online-cv 📃 at https://belce1982.github.io/online-cv/
 
 ## &#x1f4c8; My GitHub Stats & Devcard
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=belce1982&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<a href="https://app.daily.dev/Belce1982"><img src="https://api.daily.dev/devcards/643a67d592f1451dbbef08e67bf2b280.png?r=qnh" width="400" alt="Víctor González Toledo's Dev Card"/></a>
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belce1982&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> | 
+<a href="https://app.daily.dev/Belce1982"><img src="https://api.daily.dev/devcards/643a67d592f1451dbbef08e67bf2b280.png?r=qnh" width="400" alt="Víctor González Toledo's Dev Card"/></a> |
 
 ## 📫 How to reach me:
 
