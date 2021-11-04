@@ -33,3 +33,6 @@ You can find my online-cv 📃 at https://belce1982.github.io/online-cv/
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/victorgonzaleztoledo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a><a href="mailto:victor.gonzalez.sw.developer@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+
+## Testing
+<a href="https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/pull/22"><img src="https://github.com/belce1982/belce1982/blob/main/badget_laravel_daily-removebg-preview.png" width="400" alt="LaravelDaily / Test-Laravel-Auth-Basics/></a>
