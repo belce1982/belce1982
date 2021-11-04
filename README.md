@@ -22,17 +22,17 @@ You can find my online-cv 📃 at https://belce1982.github.io/online-cv/
 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jQuery Logo"  style="background-color:white" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="Sourcetree Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="80" height="80"/>
 
-## :clipboard: Devcard
-
-<a href="https://app.daily.dev/Belce1982"><img src="https://github.com/belce1982/belce1982/blob/main/devcard.svg" width="400" alt="Víctor González Toledo's Dev Card"/></a>
+## Laravel - <a href="https://laraveldaily.com/">Laravel Daily :calendar:</a>
+<a href="https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/pull/22"><img src="https://github.com/belce1982/belce1982/blob/main/badget_laravel_daily-removebg-preview.png" width="80" alt="LaravelDaily / Test-Laravel-Auth-Basics"/></a>
 
 ## &#x1f4c8; My GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belce1982&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+## :clipboard: Devcard
+
+<a href="https://app.daily.dev/Belce1982"><img src="https://github.com/belce1982/belce1982/blob/main/devcard.svg" width="400" alt="Víctor González Toledo's Dev Card"/></a>
+
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/victorgonzaleztoledo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a><a href="mailto:victor.gonzalez.sw.developer@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-
-## Testing
-<a href="https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/pull/22"><img src="https://github.com/belce1982/belce1982/blob/main/badget_laravel_daily-removebg-preview.png" width="400" alt="LaravelDaily / Test-Laravel-Auth-Basics"/></a>
