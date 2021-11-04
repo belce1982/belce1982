@@ -24,7 +24,7 @@ You can find my online-cv 📃 at https://belce1982.github.io/online-cv/
 
 ## :clipboard: Devcard
 
-<a href="https://app.daily.dev/Belce1982"><img src="https://api.daily.dev/devcards/643a67d592f1451dbbef08e67bf2b280.png?r=qnh" width="400" alt="Víctor González Toledo's Dev Card"/></a>
+<a href="https://app.daily.dev/Belce1982"><img src="https://github.com/belce1982/belce1982/blob/main/devcard.svg" width="400" alt="Víctor González Toledo's Dev Card"/></a>
 
 ## &#x1f4c8; My GitHub Stats
 
