@@ -18,25 +18,32 @@ I have an insane drive to every single day become a better programmer, co-worker
 
 You can find my online-cv 📃 at https://belce1982.github.io/online-cv/
 
-## 🧰 Toolbox
+## 🧰 My skills
 
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jQuery Logo"  style="background-color:white" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="Sourcetree Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="80" height="80"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="80" height="80"/>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## Laravel - <a href="https://laraveldaily.com/">Laravel Daily :calendar:</a>
-<a href="https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/pull/22"><img src="https://github.com/belce1982/belce1982/blob/main/badget_laravel_daily-removebg-preview.png" width="80" alt="LaravelDaily / Test-Laravel-Auth-Basics"/></a>
+
+<a href="https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/pull/22">Laravel Auth Basics :white_check_mark:</a>
+
+<a href="https://github.com/LaravelDaily/Test-Laravel-Blade-Basics/pull/18">Laravel Blade Basics :white_check_mark:</a>
+
+<a href="https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics/pull/24">Laravel Eloquent Basics :white_check_mark:</a>
+
+<a href="https://github.com/LaravelDaily/Test-Laravel-Migrations/pull/25">Laravel Migrations :white_check_mark:</a>
+
+<a href="https://github.com/LaravelDaily/Test-Laravel-Routes/pull/69">Laravel Routes :white_check_mark:</a>
 
 ## &#x1f4c8; My GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=belce1982&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-### Github Stats
-
-![Belce1982's GitHub stats](https://github-readme-stats.vercel.app/api?username=belce1982&show_icons=true)
-
-
-<a href="https://github.com/belce1982">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belce1982&theme=dark&hide_langs_height=2" />
-</a>
 
 <a href="https://github.com/belce1982">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=belce1982&show_icons=true&theme=dark&line_height=27" alt="Víctor González, github stats"/>
