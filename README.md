@@ -31,6 +31,9 @@ You can find my online-cv 📃 at https://belce1982.github.io/online-cv/
 
 ### Github Stats
 
+![Belce1982's GitHub stats](https://github-readme-stats.vercel.app/api?username=belce1982&show_icons=true)
+
+
 <a href="https://github.com/belce1982">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belce1982&theme=dark&hide_langs_height=2" />
 </a>
